@@ -5,7 +5,7 @@
 }
 
 .background {
-    background-color: #12181B;
+    background-color: #7dc6eb;
     height: 100vh;
     padding-top: 1px;
 }
@@ -49,11 +49,11 @@
 }
 
 .playerX {
-    color: #09C372;
+    color: #030eb3;
 }
 
 .playerO {
-    color: #498AFB;
+    color: #df0202;
 }
 
 .controls {
@@ -65,7 +65,7 @@
 }
 
 #reset {
-    background-color: #FF3860;
+    background-color: #e03ea2;
     color: white;
     padding: 8px;
     border-radius: 8px;
@@ -73,4 +73,5 @@
     font-size: 20px;
     margin-left: 1em;
     cursor: pointer;
+
 }
